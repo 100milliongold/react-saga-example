@@ -1,14 +1,27 @@
+<<<<<<< HEAD
 import { combineReducers } from 'redux';
 import counter from './counter';
 import todos from './todos';
 import github from './github/reducer';
 import { githubSaga } from './github';
 import { all } from 'redux-saga/effects';
+=======
+import { combineReducers } from "redux";
+import counter from "./counter";
+import todos from "./todos";
+import github from "./github";
+import { githubSaga } from "./github";
+import { all } from "redux-saga/effects";
+>>>>>>> refactor/counter2
 
 const rootReducer = combineReducers({
   counter,
   todos,
+<<<<<<< HEAD
   github
+=======
+  github,
+>>>>>>> refactor/counter2
 });
 
 // 루트 리듀서를 내보내주세요.
