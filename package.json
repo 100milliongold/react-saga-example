@@ -5,27 +5,15 @@
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.3",
-<<<<<<< HEAD
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "axios": "^0.19.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-=======
-    "@types/react": "16.9.51",
-    "@types/react-dom": "16.9.8",
-    "axios": "^0.20.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
->>>>>>> refactor/counter2
     "react-redux": "^7.1.1",
     "react-scripts": "^3.4.3",
     "redux": "^4.0.4",
-<<<<<<< HEAD
     "redux-saga": "^1.0.5",
-=======
-    "redux-saga": "^1.1.3",
->>>>>>> refactor/counter2
     "redux-thunk": "^2.3.0",
     "typesafe-actions": "^4.4.2",
     "typescript": "3.6.2"
